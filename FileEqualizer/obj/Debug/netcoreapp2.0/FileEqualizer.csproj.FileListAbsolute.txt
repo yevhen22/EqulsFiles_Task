@@ -1,0 +1,11 @@
+D:\programming\FileEqualizer\FileEqualizer\bin\Debug\netcoreapp2.0\FileEqualizer.deps.json
+D:\programming\FileEqualizer\FileEqualizer\bin\Debug\netcoreapp2.0\FileEqualizer.runtimeconfig.json
+D:\programming\FileEqualizer\FileEqualizer\bin\Debug\netcoreapp2.0\FileEqualizer.runtimeconfig.dev.json
+D:\programming\FileEqualizer\FileEqualizer\bin\Debug\netcoreapp2.0\FileEqualizer.dll
+D:\programming\FileEqualizer\FileEqualizer\bin\Debug\netcoreapp2.0\FileEqualizer.pdb
+D:\programming\FileEqualizer\FileEqualizer\obj\Debug\netcoreapp2.0\FileEqualizer.csprojResolveAssemblyReference.cache
+D:\programming\FileEqualizer\FileEqualizer\obj\Debug\netcoreapp2.0\FileEqualizer.csproj.CoreCompileInputs.cache
+D:\programming\FileEqualizer\FileEqualizer\obj\Debug\netcoreapp2.0\FileEqualizer.AssemblyInfoInputs.cache
+D:\programming\FileEqualizer\FileEqualizer\obj\Debug\netcoreapp2.0\FileEqualizer.AssemblyInfo.cs
+D:\programming\FileEqualizer\FileEqualizer\obj\Debug\netcoreapp2.0\FileEqualizer.dll
+D:\programming\FileEqualizer\FileEqualizer\obj\Debug\netcoreapp2.0\FileEqualizer.pdb
